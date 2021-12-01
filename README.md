@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**jeanlouisHERVE/jeanlouisHERVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on : 
+      :rocket: Getreadii : an easy way to accompany an employee in a new society
+      :racehorse: PaulKichilov.com : the website of a Russian artist
+      :books: Grece-antique.fr : the reborn website made 10 years ago and for witch I have written multiple articles on Ancient Greece.
+      
+- 🌱 I’m currently learning :
+      - HTML / CSS / SASS
+      - Javascript
+      - PHP
+      - React
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking for a great
+
+- 📫 How to reach me: :email: jeanlouis.herve@hotmail.fr :phone: 0683740265
+
+
