@@ -13,6 +13,6 @@
 
 - 👯 I’m looking for a great
 
-- 📫 How to reach me: :point_right: linkedin https://www.linkedin.com/in/jean-louisherve/
+- 📫 How to reach me: :point_right: https://www.linkedin.com/in/jean-louisherve/
 
 
