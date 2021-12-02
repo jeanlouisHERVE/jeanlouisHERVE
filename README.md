@@ -13,6 +13,6 @@
 
 - 👯 I’m looking for a great
 
-- 📫 How to reach me: :email: jeanlouis.herve@hotmail.fr :phone: 0683740265
+- 📫 How to reach me: :point_right: linkedin https://www.linkedin.com/in/jean-louisherve/
 
 
