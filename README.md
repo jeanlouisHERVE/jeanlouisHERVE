@@ -11,7 +11,7 @@
       - PHP
       - React
 
-- 👯 I’m looking for a new professional challenge with a great team.
+- 👯 I’m looking for a new professional challenge with a real team spirit.
 
 - 📫 How to reach me: :point_right: https://www.linkedin.com/in/jean-louisherve/
 
