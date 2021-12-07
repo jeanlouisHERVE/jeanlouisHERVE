@@ -8,15 +8,16 @@
      * :rocket: RocketInvesting : a mobile application for those who want advices for their financial investments (final project of the La Capsule formation) 
       
 - 🌱 I’m currently trained with :
-      - HTML / CSS / SASS / Styled-Component
-      - Javascript
-      - PHP
-      - React / Redux / React-Router / Axios 
-      - Typescript
-      - MySQL / MongoDb
+     * HTML / CSS / SASS / Styled-Component
+     * Javascript
+     * PHP
+     * React / Redux / React-Router / Axios 
+     * Typescript
+     * MySQL / MongoDb
 
 - :eyeglasses: I’m learning :
-      - Firebase (Authentification, DataBase)   
+     * Firebase (Authentification, DataBase) 
+     * Stripe (e-shop Payment)  
 
 - 👯 I’m looking for a new professional challenge with a real team spirit.
 
