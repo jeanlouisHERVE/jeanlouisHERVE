@@ -1,10 +1,11 @@
 ### Welcome 👋
 
 - 🔭 I’m currently working on : 
-     * :rocket: Getreadii : an easy way to accompany an employee in a new society (step 1 : Mvp building)
+     * :target: Getreadii : an easy way to accompany an employee in a new society (step 1 : Mvp building)
      * :bicyclist: Stadium : allows Association to facilitate their administration (final project of the O'clock formation)
      * :racehorse: PaulKichilov.com : the website of a Russian artist
      * :books: Grece-antique.fr : the reborn of a website made 10 years ago and for witch I have written multiple articles about Ancient Greece.
+     * :rocket: RocketInvesting : a mobile application for those who want advices for their financial investments (final project of the La Capsule formation) 
       
 - 🌱 I’m currently learning :
       - HTML / CSS / SASS
