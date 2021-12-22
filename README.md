@@ -12,12 +12,12 @@
      * Javascript
      * PHP
      * React / Redux / React-Router / Axios 
-     * Typescript
      * MySQL / MongoDb
 
 - :eyeglasses: I’m learning :
      * Firebase (Authentification, DataBase) 
      * Stripe (e-shop Payment)  
+     * Typescript
 
 - 👯 I’m looking for a new professional challenge with a real team spirit.
 
